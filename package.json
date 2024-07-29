@@ -35,7 +35,7 @@
     "@openedx/frontend-plugin-framework": "github:edunext/frontend-plugin-framework#ednx-release/css-variables-1.2.2"
   },
   "peerDependencies": {
-    "@edx/frontend-component-footer": "14.0.0-alpha.1",
+    "@edx/frontend-component-footer": "*",
     "react": "^17.0.0"
   },
   "devDependencies": {
