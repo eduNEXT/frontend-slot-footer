@@ -1,11 +1,11 @@
 {
-  "name": "@openedx/frontend-slot-footer",
-  "version": "1.0.0-semantically-released",
+  "name": "@edunext/frontend-slot-footer",
+  "version": "1.0.2-alpha.1",
   "description": "Site footer PluginSlot utilizing Frontend Plugin Framework",
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openedx/frontend-slot-footer.git"
+    "url": "git+https://github.com/edunext/frontend-slot-footer.git"
   },
   "browserslist": [
     "extends @edx/browserslist-config"
@@ -24,12 +24,12 @@
   },
   "author": "Open edX Community",
   "license": "AGPL-3.0",
-  "homepage": "https://github.com/openedx/frontend-slot-footer#readme",
+  "homepage": "https://github.com/edunext/frontend-slot-footer#readme",
   "publishConfig": {
     "access": "public"
   },
   "bugs": {
-    "url": "https://github.com/openedx/frontend-slot-footer/issues"
+    "url": "https://github.com/edunext/frontend-slot-footer/issues"
   },
   "dependencies": {
     "@openedx/frontend-plugin-framework": "^1.1.2"
@@ -39,7 +39,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@edx/frontend-component-footer": "^14.0.0",
+    "@edx/frontend-component-footer": "github:edunext/frontend-component-footer#ednx-release/css-variables-14.0.0",
     "@edx/browserslist-config": "^1.1.1",
     "@openedx/frontend-build": "^14.0.3",
     "core-js": "3.37.1",
