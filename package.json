@@ -32,7 +32,7 @@
     "url": "https://github.com/edunext/frontend-slot-footer/issues"
   },
   "dependencies": {
-    "@openedx/frontend-plugin-framework": "^1.1.2"
+    "@openedx/frontend-plugin-framework": "github:edunext/frontend-plugin-framework#ednx-release/css-variables-1.2.2"
   },
   "peerDependencies": {
     "@edx/frontend-component-footer": "*",
