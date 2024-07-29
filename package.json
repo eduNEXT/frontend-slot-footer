@@ -35,11 +35,11 @@
     "@openedx/frontend-plugin-framework": "github:edunext/frontend-plugin-framework#ednx-release/css-variables-1.2.2"
   },
   "peerDependencies": {
-    "@edx/frontend-component-footer": "*",
+    "@edx/frontend-component-footer": "14.0.0-alpha.1",
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@edx/frontend-component-footer": "github:edunext/frontend-component-footer#ednx-release/css-variables-14.0.0",
+    "@edx/frontend-component-footer": "npm:@edunext/frontend-component-footer@14.0.0-alpha.1",
     "@edx/browserslist-config": "^1.1.1",
     "@openedx/frontend-build": "^14.0.3",
     "core-js": "3.37.1",
