@@ -39,7 +39,7 @@
     "react": "^17.0.0"
   },
   "devDependencies": {
-    "@edx/frontend-component-footer": "^14.0.0",
+    "@edx/frontend-component-footer": "github:edunext/frontend-component-footer#edunext/css-variables-8.1.2",
     "@edx/browserslist-config": "^1.1.1",
     "@openedx/frontend-build": "^14.0.3",
     "core-js": "3.37.1",
